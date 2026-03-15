@@ -51,15 +51,11 @@ const developer = {
 
 ---
 
-## Social Links
+**Connect with me:**
 
-```javascript
-const socials = {
-  github_previous: "https://github.com/duduBmoon21",
-  linkedin: "https://www.linkedin.com/in/eleanor-tefera",
-  portfolio: "https://elcreates.com"
-}
-```
+* GitHub (previous): [https://github.com/duduBmoon21](https://github.com/duduBmoon21)
+* LinkedIn: [https://www.linkedin.com/in/eleanor-tefera](Eleanor Tefera Nigatu)
+* Portfolio: [https://elcreates.com](https://elcreates.com)
 
 ---
 
