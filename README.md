@@ -53,9 +53,12 @@ const developer = {
 
 **Connect with me:**
 
-* GitHub (previous): [https://github.com/duduBmoon21](https://github.com/duduBmoon21)
-* LinkedIn: [https://www.linkedin.com/in/eleanor-tefera](Eleanor Tefera Nigatu)
-* Portfolio: [https://elcreates.com](https://elcreates.com)
+* GitHub (previous): [click here](https://github.com/duduBmoon21)
+* LinkedIn: [click here](https://www.linkedin.com/in/eleanor-tefera)
+* Portfolio: [Click here](https://elcreates.com)
+
+---
+
 
 ---
 
