@@ -1,8 +1,9 @@
-# Hi World 👋
+# Hello World 👋
 
 If you're here, you're probably trying to query some data about me.
 
-So let's run a quick check from the database.
+So let's run a quick check from the database. before any of these you can checkout my previous GitHub (previous): [click here](https://github.com/duduBmoon21)
+
 
 ```sql
 SELECT * FROM developers WHERE name = 'Eleanor';
